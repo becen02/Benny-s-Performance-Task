@@ -8,6 +8,7 @@ size = Vector2(146, 145)
 
 [node name="Player" type="Area2D"]
 script = ExtResource("1_q107k")
+speed = null
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_7gflm")
